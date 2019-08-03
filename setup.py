@@ -7,9 +7,9 @@ version = '0.1.3'
 setup(
     name = 'termdic',
     version = version,
-    author = 'hzwer',
-    author_mail = '598460606@163.com',
-    url = 'https://github.com/hzwer/termdic',
+    author = 'lastlearner',
+    author_mail = '429825736@qq.com',
+    url = 'https://github.com/lastlearner/termdic',
     description = 'Dictionary in your terminal',
     keywords = 'dictionary, terminal',
     packages = find_packages(),
